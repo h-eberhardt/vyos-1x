@@ -90,6 +90,7 @@ Depends:
   libstrongswan-extra-plugins (>=5.9),
   libstrongswan-standard-plugins (>=5.9),
   libvyosconfig0,
+  linuxptp,
   lldpd,
   lm-sensors,
   lsscsi,
